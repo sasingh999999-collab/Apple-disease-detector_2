@@ -3,8 +3,11 @@ ultralytics==8.0.200
 opencv-python-headless==4.8.1.78
 pillow==10.0.1
 numpy==1.24.3
-torch==2.0.1
-
-torchvision==0.15.2
+torch==2.1.0
+torchvision==0.16.0
 requests==2.31.0
 gdown==4.7.1
+pyyaml==6.0.1
+matplotlib==3.7.2
+
+
