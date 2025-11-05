@@ -4,4 +4,6 @@ opencv-python-headless==4.8.1.78
 pillow==10.0.1
 numpy==1.24.3
 torch==2.0.1
+
 torchvision==0.15.2
+requests==2.31.0
