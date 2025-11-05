@@ -7,3 +7,4 @@ torch==2.0.1
 
 torchvision==0.15.2
 requests==2.31.0
+gdown==4.7.1
